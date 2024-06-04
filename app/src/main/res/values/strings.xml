@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sortowaniee</string>
+    <string name="sortowanie_przez_wstawianie">Sortowanie przez wstawianie</string>
+    <string name="sortowanie_przez_scalanie">Sortowanie przez scalanie</string>
+    <string name="enter_numbers_separated_by_commas">Enter numbers separated by commas</string>
+    <string name="wynik_sortowania">Wynik sortowania</string>
+</resources>
